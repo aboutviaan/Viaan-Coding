@@ -9,7 +9,7 @@ while True:
         print("GAME OVER")
         break
 
-    print("=== ZOMBIE ESCAPE ===")
+    print(" ZOMBIE ESCAPE ")
     print("Health:", health)
     print("1. Search for supplies")
     print("2. Fight zombie")
